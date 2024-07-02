@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @msdiana
-- 👀 I’m interested in chemistry
+- 👀 I’m interested in chemistry of cosmetics and pharmaceuticals
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects associated with chemistry and organical chemistry
+- 💞️ I’m looking to collaborate on projects associated with cosmetics and pharmaceuticals chemistry
 - 📫 You can reach me on Linked In
 
 <!---
